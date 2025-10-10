@@ -19,7 +19,7 @@ from gfedplat.model.MLP import MLP
 
 
 import gfedplat.algorithm
-from gfedplat.algorithm.CoReFed.CoReFed import CoReFed
+from gfedplat.algorithm.CoReFed import CoReFed
 
 
 from gfedplat.dataloaders.separate_data import separate_data, create_data_pool
