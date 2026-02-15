@@ -17,4 +17,5 @@ python run.py --seed 1 --device 0 --module CNN --algorithm CoReFed --dataloader 
 ```
 All parameters are mentioned in `main.py`.
 
-
+## Acknowledgement
+Thanks to Pan et al. for publishing their code for [FedLF](https://github.com/zibinpan/FedLF). Our implementation is heavily based on their work.
